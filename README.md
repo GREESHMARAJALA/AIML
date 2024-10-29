@@ -4,3 +4,4 @@
  LAB-4 https://github.com/GREESHMARAJALA/AIML/blob/main/Untitled3%20(1).ipynb
  LAB-5 https://github.com/GREESHMARAJALA/AIML/blob/main/AIML%20LAB%20-5
  LAB -6 https://github.com/GREESHMARAJALA/AIML/blob/8e2232eaa03751ef6c3c097ce47a9a3c5aa37abb/AIML%20LAB-6
+ LAB-7 https://github.com/GREESHMARAJALA/AIML/blob/b1f41949090d70c1730286e57da9b9ac602b0da6/LAB_7(29_10_24).ipynb
